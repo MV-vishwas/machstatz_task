@@ -33,7 +33,7 @@ Example-2021-01-28T07:30:00Z
  
 	API- <baseURL>/question_1/<start_time>/<end_time>	
 	
-	Example- http://machstatztask-env.eba-iec7rddt.ap-southeast-1.elasticbeanstalk.com/question_1/2021-01-28T07:30:00Z/2021-01-28T13:30:00Z 
+	Example- http://mvvishwas.pythonanywhere.com/question_1/2021-01-28T07:30:00Z/2021-01-28T13:30:00Z 
 	
 	Method- HTTP GET
 
@@ -43,7 +43,7 @@ Example-2021-01-28T07:30:00Z
  
 	API- <baseURL>/question_2/<start_time>/<end_time>	
 	
-	Example- http://machstatztask-env.eba-iec7rddt.ap-southeast-1.elasticbeanstalk.com/question_2/2021-01-28T08:30:00Z/2021-01-28T10:30:00Z
+	Example- http://mvvishwas.pythonanywhere.com/question_2/2021-01-28T08:30:00Z/2021-01-28T10:30:00Z
 	
 	Method- HTTP GET
 
@@ -53,7 +53,7 @@ Example-2021-01-28T07:30:00Z
  
 	API- <baseURL>/question_3/<start_time>/<end_time>	
 	
-	Example- http://machstatztask-env.eba-iec7rddt.ap-southeast-1.elasticbeanstalk.com/question_3/2021-01-28T18:30:00Z/2021-01-28T20:10:00Z
+	Example- http://mvvishwas.pythonanywhere.com/question_3/2021-01-28T18:30:00Z/2021-01-28T20:10:00Z
 	
 	Method- HTTP GET
 
